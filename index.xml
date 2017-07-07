@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PrivacyChain</title>
+    <link>http://Privacy-Chain.github.io/</link>
+    <description>Recent content on PrivacyChain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://Privacy-Chain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://privacy-chain.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://privacy-chain.github.io/faq/</guid>
+      <description>
+
+&lt;h2 id=&#34;faq:4a1318da06786ac52626178ca960109e&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;p&gt;This is the FAQ.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
